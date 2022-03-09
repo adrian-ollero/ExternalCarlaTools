@@ -1,0 +1,6 @@
+# Python Cache
+__pycache__/
+
+# Input and output directory
+/input/
+/output/
