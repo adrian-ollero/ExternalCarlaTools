@@ -2,5 +2,6 @@
 __pycache__/
 
 # Input and output directory
-/input/
-/output/
+input/
+output/
+temp/
